@@ -9,3 +9,7 @@ This library enables an Arduino board to communicate with the Arduino TFT LCD sc
 ### Going further
 
 Have a look [here](https://www.arduino.cc/en/Reference/TFTLibrary).
+
+### Errata
+
+Due to the age and inability of IDE to interact with a suitable platform, it is suggested the feature not be used until a suitable replacement is found. Perhaps the next version.
